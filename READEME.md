@@ -2,7 +2,7 @@ this  is a readme file
 NOTES: 
 exclidraw:https://excalidraw.com/#json=QGjePTq_aCFunYZrYkY74,zYtdIwX7PSNbBENEe95UWQ
 
-![notes.png file] (note.png)
+![notes.png file](note.png)
 
 ## METHOD_1 CLONING
 
